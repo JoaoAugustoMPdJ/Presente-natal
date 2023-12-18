@@ -21,7 +21,7 @@ function openPresent() {
        Esse html deveria ser melhor tu merece o melhor mas infelizmente não consegui ajustar, no arquivo vai ter uma musica que
        eu queria ter colocado para tocar junto mas se eu não conseguir vai ser só esta carta mesmo. Novamente ESTA NÃO É UMA CARTA DE
        DESPEDIDA, e sim uma DECLARAÇÃO DE AMOR, infelizmente ainda não consigo por em palavras o quanto te amo, te adoro e te quero.
-       Enfim acho que já escrevi demais espero que eu consiga ficar do teu lado por muito tempo, te amo demais Janine Conceição dos Santos, minha jujubinha.</p>
+       Enfim acho que já escrevi demais, espero que eu consiga ficar do teu lado por muito tempo, te amo demais Janine Conceição dos Santos, minha jujubinha.</p>
     <p>Então como diria uma musica que o amor da minha vida indicou "Stay with me, my blood" ,</p>
     <p>SEU E SÓ SEU, Nerdiznho</p>
   `;

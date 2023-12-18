@@ -1,5 +1,5 @@
 body {
-  background-color: #f0f0f0;
+  background-color: #ffffff; /* Branco como fundo */
   font-family: 'Arial', sans-serif;
   text-align: center;
   margin: 0;
@@ -10,18 +10,37 @@ body {
   margin-top: 50px;
 }
 
-#present-button {
-  padding: 10px 20px;
-  font-size: 18px;
-  cursor: pointer;
-  background-color: #e74c3c;
-  color: #fff;
-  border: none;
-  border-radius: 5px;
+h1 {
+  color: #e74c3c; /* Vermelho para o título */
 }
 
 #present-image {
   max-width: 100%;
   height: auto;
   margin-top: 20px;
+  border: 5px solid #228b22; /* Verde escuro para a borda da imagem */
+  border-radius: 10px; /* Cantos arredondados */
+}
+
+#present-button {
+  padding: 10px 20px;
+  font-size: 18px;
+  cursor: pointer;
+  background-color: #e74c3c; /* Vermelho para o botão */
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+#letter-container {
+  display: none;
+  background-color: #ffffff; /* Branco para o fundo da carta */
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 10px; /* Cantos arredondados */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra leve */
+  text-align: justify; /* Texto justificado */
+  line-height: 1.6; /* Altura da linha para melhor leitura */
+  color: #228b22; /* Verde escuro para o texto da carta */
 }
